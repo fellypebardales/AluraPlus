@@ -1,10 +1,12 @@
-![Logo da frutaefruto](https://user-images.githubusercontent.com/86852698/182039029-4bc30141-6a7c-4ea3-ac52-c928a618cd5b.jpg)
+![aluraplus](https://user-images.githubusercontent.com/86852698/184527593-a64402de-af45-4e0a-9d11-f3d01cf2475a.jpg)
+
+
 
 
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=STATUS&message=finished&color=GREEN&style=for-the-badge"/>
-  <img src="http://img.shields.io/static/v1?label=responsive&message=no&color=orange&style=for-the-badge"/>
-  <img src="http://img.shields.io/static/v1?label=future%20modifications&message=no&color=orange&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=responsive&message=no&color=red&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=future%20modifications&message=yes&color=GREEN&style=for-the-badge"/>
 </p>
 
 
@@ -21,9 +23,9 @@
 
 ## Descrição do projeto 
 <p align="justify">
-  O projeto da landing page foi desenvolvido durante o curso "HTML e CSS: Praticando HTML/CSS" da plataforma de curso e aprendizado Alura. O projeto foi desenvolvido para a prática mais introdutória do CSS, sendo assim, o código CSS é o mais presente.
+  O projeto da landing page foi desenvolvido durante o curso "HTML e CSS: Praticando HTML/CSS" da plataforma de curso e aprendizado Alura. O projeto foi desenvolvido para a prática mais introdutória do CSS junto ao HTML.
   <br>
-O Alura Plus é uma plataforma de streaming de cursos online de tecnologia e idiomas.
+Alura Plus é uma plataforma de streaming de cursos online de tecnologia e idiomas.
 </p>
 
 <br>
