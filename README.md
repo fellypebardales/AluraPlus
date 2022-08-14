@@ -58,4 +58,4 @@ Você pode acessar a página do projeto [aqui](https://aluraplus-nine.vercel.app
 <br>
 
 ## Licença
-Projeto está licenciado sob a [Licença MIT](https://github.com/gui-lirasilva/Edige-POO/tree/master/src).
+Projeto está licenciado sob a [Licença MIT](https://github.com/fellypebardales/alura-plus/blob/3f1504fee458c91e7c72a8c0ab1d0e606d9ab007/licenca.txt).
